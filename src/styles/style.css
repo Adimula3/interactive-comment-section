@@ -1,0 +1,113 @@
+
+
+.comment {
+
+}
+.comment-container {
+    height: 167px;
+    width: 730px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.scores {
+    width: 40px;
+    height: 100px;
+    text-align: left;
+    background: #F5F6FA;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bx {
+   margin-left: 13px;
+    margin-top: 5px;
+    color: #C5C6EF;
+}
+.score {
+    text-align: center;
+    margin-top: 10px;
+    color: #5357B6;
+}
+.info {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.avatar-image {
+    height: 32px;
+    width: 32px;
+}
+.user {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #334253;
+    margin-left: 20px;
+}
+.createdAt {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #67727E;
+    margin-left: 20px;
+}
+.reply {
+    margin-left: 310px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #5357B6;
+}
+.bx-reply {
+    height: 12px;
+    width: 14px;
+}
+.message {
+
+}
+.msg {
+    position: relative;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #67727E;
+    text-align: left;
+    bottom: 60px;
+    left: 80px;
+    width: 600px;
+}
+.reply-container {
+    height: 167px;
+    width: 642px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.replies {
+   margin-top: 185px;
+
+}
+.reply {
+    margin-left: 310px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #5357B6;
+}
+.reply-text {
+    margin-left: 400px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #5357B6;
+}
